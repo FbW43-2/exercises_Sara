@@ -1,0 +1,19 @@
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+.sans-serif {
+  font-family: "Gill Sans", sans-serif;
+}
+.script {
+  font-family: "pinyon script", cursive;
+}
+.monospace {
+  font-family: "Liberation Mono", monospace;
+}
+
+.display {
+  font-family: "Ruslan Display", cursive;
+}
+section {
+  font-size: 20px;
+}
